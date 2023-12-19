@@ -6,3 +6,13 @@
 ---------------
 4. 자바스크립트 실습예제 3, 4
 5. 변수와 연산자의 개념과 활용
+6. 데이터 유형, 제어문, 실습예제(교보문고)
+7. 배너실습 응용하기, 제어문(select case, for, while, do while), 탭메뉴 갤러리
+8. 
+
+
+html
+css
+javascript
+jquery
+sass
